@@ -1,0 +1,10 @@
+######################################    APPLICATION CONFIGURATION    #################################################
+
+# Class name of the classifier
+processor_class_list=online.madhbhavikar.processor.plugins.processors.NoOperation
+
+# Class name of the writer
+writer_class=online.madhbhavikar.processor.plugins.io.output.NoOperation
+
+# Worker threads for this classifier
+worker_threads=4
