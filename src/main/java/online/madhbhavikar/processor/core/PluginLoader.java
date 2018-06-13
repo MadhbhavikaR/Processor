@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-package online.madhbhavikar.processor.plugins;
+package online.madhbhavikar.processor.core;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

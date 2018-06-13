@@ -25,5 +25,4 @@ hs_err_pid*
 .idea/
 *.iml
 target/
-
-f8f05b89eeb33117837e2da47ce773f3714ce01c
+.gitignore
